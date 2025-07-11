@@ -9,7 +9,7 @@ That is where I came in. As a Data Analyst, my role was to look  into the hospit
 
 ## Objectives
 - Analyze patient demographics (age, gender, blood type)
-- Explore common medical conditions and comorbidities
+- Explore common medical conditions and medication.
 - Monitor doctor performance
 - Track types of hospital admissions
 - Analyze insurance coverage
@@ -71,7 +71,7 @@ Interact with report [here](https://app.powerbi.com/view?r=eyJrIjoiMzkxOTY0ZTEtM
 - Power point for report background.
 
 ## Data Source
-HeathCare CSV Containing 
+HealthCare Excel file Containing 
 - Patients IDs
 - Age: The age of the patient at the time of admission, expressed in years.
 - Gender: Indicates the gender of the patient, either "Male" or "Female." 
